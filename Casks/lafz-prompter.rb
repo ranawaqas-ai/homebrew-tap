@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 cask "lafz-prompter" do
   version "1.2"
   sha256 "1dec7fc1d3d118b16d5955007069c724f428703a9df5fec7880dd36a429e6a90"
